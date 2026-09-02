@@ -35,3 +35,9 @@ Não subir para este repositório nenhum arquivo com dado real de cliente.
 - [ ] Atualizar `canonical`, Open Graph, `robots.txt` e `sitemap.xml` com o domínio definitivo
 - [ ] Trocar dois ou três cases industriais por casos de comércio ou serviço
 - [ ] Verificar no Google Search Console
+
+
+## Estrutura de arquivos
+
+Todos os arquivos ficam na raiz do repositorio: index.html, os prints em .webp,
+logo, favicons, og-image.jpg, robots.txt e sitemap.xml.
